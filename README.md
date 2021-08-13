@@ -1,4 +1,6 @@
 ### Hi there 👋
+Get to know more about me
+https://shiloz.github.io/shiloz-profile/
 
 <!--
 **shiloz/shiloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
